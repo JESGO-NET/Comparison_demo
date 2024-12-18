@@ -8,7 +8,7 @@ import os
 
 # Page configuration
 st.set_page_config(
-    page_title="ESGメトリクスダッシュボード",
+    page_title="JESGO エバリュエーター | 比較機能デモ",
     layout="wide",
     initial_sidebar_state="expanded",
 )
