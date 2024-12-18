@@ -134,7 +134,7 @@ def main():
                 st.info("ロゴを表示するには、'logo.png'をアプリケーションのディレクトリに配置してください。")
         
         with col2:
-            st.title("ESGメトリクスダッシュボード")
+            st.title("JESGO エバリュエーター | 比較機能デモ")
 
     # Overview metrics
     st.markdown("### 主要指標")
